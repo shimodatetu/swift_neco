@@ -12,7 +12,7 @@ struct ContentView: View {
     @State private var text: String = ""
     @State private var count: Int = 2
     
-    @State private var distance: Double = 2
+    @State private var distance: Double = 0
     
     @State private var isDisplay: Bool = false
     
